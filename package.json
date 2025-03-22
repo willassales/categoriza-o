@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "nodemon": "^3.1.9",
+    "produtos": "file:",
+    "string-similarity": "^4.0.4"
+  },
+  "name": "produtos",
+  "version": "1.0.0",
+  "description": "## Contexto Você está desenvolvendo um sistema para um comparador de preços que precisa identificar quando diferentes supermercados vendem o mesmo produto, mesmo quando os nomes têm pequenas variações.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

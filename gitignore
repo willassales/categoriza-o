@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# Editor directories and files
+.vscode/
+.idea/
+.DS_Store
+
+# Build files
+dist/
+build/
+
+# Dependency directories
+node_modules/
+
